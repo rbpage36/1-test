@@ -2,4 +2,25 @@
 body{
     color: white;
     background-color: black;
+    text-align: center;
+}
+
+h1{
+    font-family: Verdana;
+    font-size: 50px;
+}
+
+.download{
+    color: Aquamarine;
+    font-size: 16px;
+    padding: 30px;
+}
+
+img{
+    padding: 30px;
+}
+
+
+footer{
+    float:right;
 }
